@@ -1,0 +1,11 @@
+.controlTextarea {
+    padding: 5px;
+    border: 1px solid black;
+    width: 500px;
+    height: 250px;
+}
+
+.controlText {
+    border: 1px solid black;
+    width: 300px;
+}

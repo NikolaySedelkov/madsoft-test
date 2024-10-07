@@ -1,0 +1,16 @@
+[
+    {
+        "type": "checkbox",
+        "question": "Какие языки программирования вы знаете?",
+        "variants": ["JavaScript", "Python", "Java", "C++"]
+    },
+    {
+        "type": "text",
+        "question": "Как вас зовут?"
+    },
+
+    {
+        "type": "textarea",
+        "question": "Опишите ваш опыт работы в последней компании."
+    }
+]
